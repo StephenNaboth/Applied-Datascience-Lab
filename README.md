@@ -1,7 +1,7 @@
 # Applied Data Science Lab 
 I have completed the Applied Data Science course offered by WorldQuant University. Here is the verification badge link [click here](https://www.credly.com/badges/1c3e5ec1-f0ef-41f9-8f18-2d36c35b67c0/public_url)
 ## learning Criteria
-* I completed eight projects. Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded. For each assessment, students must score 90% or better.
+I completed eight projects. Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded. For each assessment, students must score 90% or better:
 * HOUSING IN MEXICO: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
 * APARTMENT SALES IN BUENOS AIRES: Learners build a linear regression model to predict apartment prices in Argentina. They create a data pipeline to impute missing values and encode categorical features, and they improve model performance by reducing overfitting.
 * AIR QUALITY IN NAIROBI: Learners build an ARMA time-series model to predict particulate matter levels in Kenya. They extract data from a MongoDB database using pymongo, and improve model performance through hyperparameter tuning.
